@@ -1,2 +1,6 @@
 # MiniLoadBalance
-O pior Load Balance já feito
+O pior suposto Load Balance já feito.
+
+Ainda em desenvolvimento.
+
+Inciado para fins de estudo.
